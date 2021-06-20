@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Website of Fortune Alebiosu",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "test": "run",
+    "start": "npm run lite"
+  },
+  "author": "Fortune Alebiosu",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
